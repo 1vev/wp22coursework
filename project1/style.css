@@ -1,0 +1,11 @@
+.coolclass1{
+    background-color: beige;
+    font-size: 60px;
+    font:sans serif;
+    border:5px solid gray;
+    font-style: oblique;
+    font-stretch: expanded;
+    padding: 20px;
+    margin: 20px;
+    color:gray;
+  }
