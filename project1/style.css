@@ -1,11 +1,27 @@
-.coolclass1{
-    background-color: beige;
-    font-size: 60px;
-    font:sans serif;
-    border:5px solid gray;
-    font-style: oblique;
-    font-stretch: expanded;
-    padding: 20px;
-    margin: 20px;
-    color:gray;
+.overarching{
+
+  font-family: 'Reem Kufi Fun', sans-serif;
+}
+
+.titles{
+    font-size: 40px;
+    font:font-family: 'Reem Kufi Fun', sans-serif;;
+    font-stretch:expanded;
   }
+
+.copy_1st{
+    font-size: 15px;}
+
+.copy_2nd{
+    font-size: 20px;}
+
+.outlined_box{
+  text-align:center;
+  width:200px;
+  height:280px;
+  border: 5px solid orange;
+  border-radius: 2px;
+  margin-left: 700px;
+  margin-right:700px;
+  margin-top:30px;
+}
