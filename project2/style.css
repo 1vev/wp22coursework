@@ -1,0 +1,73 @@
+/* this is a comment*/
+/* a star * will applu this to everything*/
+
+body{
+  background-color:#B0E0E6;
+  color:white;
+  font-family: 'Mulish', sans-serif;
+  font-size:20px;
+  display:block;
+}
+
+.nav_sticky{
+  position:sticky;
+  top:0;
+  margin:0;
+  background-color: white;
+  opacity: 0.5;
+  width:100vw;
+  margin-left: -100px;
+  margin-top: -110px;
+  padding:20px;
+  display:flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content:center;
+  align-items:center;
+}
+
+.nav_child{
+  flex-grow: 1;
+  padding:10px;
+  text-decoration:none;
+  font-size: 30px;
+  color:#FF6347;
+  opacity: 1;
+  text-align:center;
+}
+
+.grid{
+  display: grid;
+  margin-left: 18vw;
+  width:50vw;
+  gap:2px;
+  border:2px solid white;
+  border-radius: 5px;
+  grid-template-columns: 1fr 1fr 1fr;
+  background-color: white;
+  box-sizing: border-box;
+}
+
+.grid_item{
+  padding:20px;
+  color:#FF6347;
+  font-size: 34px;
+  justify-self:stretch;
+  align-self: stretch;
+  background-color:#B0E0E6;
+}
+
+.grid_category{
+
+  style="color:#6A5ACD;
+  font-size:25px
+}
+.japanese_character{
+  font-family: 'Klee One', cursive;
+  font-size: 80px;
+}
+
+
+.container {
+  display: flex;
+}
