@@ -1,5 +1,5 @@
 /* this is a comment*/
-/* a star * will applu this to everything*/
+/* a star * will apply this to everything*/
 
 body{
   background-color:#B0E0E6;
@@ -20,8 +20,8 @@ body{
   margin-top: -110px;
   padding:20px;
   display:flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
+  flex-direction:row;
+  flex-wrap:nowrap;
   justify-content:center;
   align-items:center;
 }
@@ -59,7 +59,7 @@ body{
 
 .grid_category{
 
-  style="color:#6A5ACD;
+  color:#6A5ACD;
   font-size:25px
 }
 .japanese_character{
